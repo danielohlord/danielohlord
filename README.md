@@ -38,7 +38,7 @@ Computer Science Co-op student at the University of Toronto.
 
 ### 🚀 Featured Projects
 
-* **[KAZE Mesh]([https://github.com/danielohlord/kaze-mesh](https://github.com/ly202009/Hack-The-Valley-11)** `Kotlin` `Jetpack Compose` `Firebase` `MapLibre API` `Gemini` 
+* **[KAZE Mesh](https://github.com/ly202009/Hack-The-Valley-11)** `Kotlin` `Jetpack Compose` `Firebase` `MapLibre API` `Gemini` 
   * Personal safety Android application featuring discrete distress triggers and real-time peer check-ins.  
   * Built under a 36-hour deadline at Hack the Valley 11, winning **3rd Place ($500)** in the Project KAZE challenge.  
   * Engineered real-time member syncing via Firebase Realtime Database and styled responsive UI using Jetpack Compose.
